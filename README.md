@@ -2,14 +2,16 @@
 
 **Comandos que podem ser realizados**
 
-1. Depositar
-2. Sacar
-3. Ver extrato
-4. Novo dia
-5. Sair
+- Depositar
+- tSacar
+- Extrato
+- Nova conta
+- Listar contas
+- Novo usuário
+- Sair
 
 ### **Executar o Simulador**
 
 ```
-python banco.py
+python sistema_bancario.py
 ```
